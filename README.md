@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Alves
 
-- 🔭 Hoje Trabalho com Front End
-- 🌱 Estudando Scrum e ITIL
+- 🔭 Hoje Trabalho com Data Analytics/Business Intelligence
+- 🌱 Python
 - <div align="center">
   <a href="https://github.com/MatheusS30">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusS30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,6 +12,7 @@
    <img align="center" alt="Matheus-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="Matheus-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" alt="Matheus-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Matheus-React" height="30" width="40" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
  </div>
   
   ##
