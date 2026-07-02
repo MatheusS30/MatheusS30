@@ -1,7 +1,6 @@
-### Olá! Eu sou o Matheus Alves
-
-- 🔭 Hoje Trabalho com Data Analytics/Business Intelligence
-- 🌱 Python
+💻 Full Stack JavaScript em formação
+📊 Marketing | Data Analytics | BI
+🚀 Construindo aplicações com React, Node.js e PostgreSQL
 - <div align="center">
   <a href="https://github.com/MatheusS30">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusS30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
